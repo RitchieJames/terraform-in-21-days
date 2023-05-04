@@ -1,3 +1,1 @@
-this is my fucking test
-
-we are using barnches to track changes
+This is the terraform project for learning in 21 days
